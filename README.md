@@ -1,7 +1,4 @@
-
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-    
-<h1 align="left">Hi 👋🏽, I'm Rafael Henkel</h1>
+<h1 align="left">Olá 👋🏽, Sou o Rafael Henkel</h1>
 
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
