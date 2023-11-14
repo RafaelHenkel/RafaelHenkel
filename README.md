@@ -1,10 +1,8 @@
 <h1 align="left">Olá 👋🏽, Sou o Rafael Henkel</h1>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
-
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
-        <p>• 📚   : <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 Atualmente aprendendo a programar com a Growdev: <b>Fullstack development pela 18 Edição da Growdev</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Gym 🏋️‍♂️</b></p>
 </div><br>
 
