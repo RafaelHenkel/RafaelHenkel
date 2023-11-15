@@ -2,7 +2,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
-        <p>• 📚 <b>Atualmente Estou na 18ª Edição do Programa Starter da Growdev</b></p>
+        <p>• 📚 <b>Atualmente estou na 18ª Edição do Programa Starter da Growdev</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Gym 🏋️‍♂️</b></p>
 </div>
 
