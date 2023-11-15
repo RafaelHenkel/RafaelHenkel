@@ -4,7 +4,7 @@
     <h3>👨🏽‍💻 Sobre mim:</h3>
         <p>• 📚 <b>Atualmente estou no Estou na 18ª Edição do Programa Starter da Growdev</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Gym 🏋️‍♂️</b></p>
-</div><br>
+</div>
 
 ---
 
@@ -25,6 +25,5 @@
     <a href="https://www.linkedin.com/in/rafael-henkel-b245b4298/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://www.instagram.com/rafael_henkell/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
     <a href="MAILTO:rafael0henkel1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
 
 </div>
