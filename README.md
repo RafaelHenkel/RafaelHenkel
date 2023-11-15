@@ -2,7 +2,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
-        <p>• 📚 Atualmente aprendendo a programar com a Growdev: <b>Fullstack development pela 18 Edição da Growdev</b></p>
+        <p>• 📚 <b>Atualmente estou no Estou na 18ª Edição do Programa Starter da Growdev</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Gym 🏋️‍♂️</b></p>
 </div><br>
 
@@ -21,14 +21,10 @@
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://wa.me/5551998256816" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+    <a href="https://www.linkedin.com/in/rafael-henkel-b245b4298/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/rafael_henkell/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="MAILTO:rafael0henkel1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+
 </div>
-
----
-
-Credit: [gabrlcj](https://github.com/gabrlcj)
-
-Last Edited on: 23/10/2021
