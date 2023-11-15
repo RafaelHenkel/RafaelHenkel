@@ -2,7 +2,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 Sobre mim:</h3>
-        <p>• 📚 <b>Atualmente estou no Estou na 18ª Edição do Programa Starter da Growdev</b></p>
+        <p>• 📚 <b>Atualmente Estou na 18ª Edição do Programa Starter da Growdev</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Gym 🏋️‍♂️</b></p>
 </div>
 
@@ -17,7 +17,7 @@
     <a href="https://"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
-    
+
 </div>
 
 ---
