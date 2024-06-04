@@ -23,6 +23,7 @@
 ---
 <div>
 <h3>⭐ GitHub Stats: </h3><br>
+<a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark)">
 [![Rafael Henkel GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark)](https://github.com/RafaelHenkel)
 [![Rafael Henkel](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&layout=compact&theme=dark)](https://github.com/RafaelHenkel)
 </div>
