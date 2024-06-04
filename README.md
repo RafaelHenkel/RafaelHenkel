@@ -22,9 +22,9 @@
 
 ---
 <div>
-    ## ⭐ GitHub Stats
-[![Rafael Henkel GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark)](https://github.com/HenriBueno)
-[![Rafael Henkel](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&layout=compact&theme=dark)](https://github.com/HenriBueno)
+<h3>⭐ GitHub Stats: </h3><br>
+[![Rafael Henkel GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark)](https://github.com/RafaelHenkel)
+[![Rafael Henkel](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&layout=compact&theme=dark)](https://github.com/RafaelHenkel)
 </div>
 <div>
   <h3>📱 Social Medias:</h3><br>
