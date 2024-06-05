@@ -21,6 +21,7 @@
 </div>
 
 ---
+
 <div>
 <h2>⭐ GitHub Stats: </h2>
     <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark">
@@ -28,6 +29,7 @@
 </div>
 
 ---
+
 <div>
   <h2>📱 Social Medias:</h2>
     <a href="https://wa.me/5551998256816" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
