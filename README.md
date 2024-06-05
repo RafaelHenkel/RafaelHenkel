@@ -9,7 +9,7 @@
 ---
 
 <div>
-  <h3>🧰 Linguagens que estou aprendendo atualmente:</h3><br>
+  <h3>🧰 Linguagens que estou aprendendo atualmente:</h3>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&style=for-the-badge&logo=typescript&logoColor=03256C" alt="Typescript"></a>
@@ -22,12 +22,12 @@
 
 ---
 <div>
-<h3>⭐ GitHub Stats: </h3><br>
+<h3>⭐ GitHub Stats: </h3>
     <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark">
     <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&layout=compact&theme=dark">
 </div>
 <div>
-  <h3>📱 Social Medias:</h3><br>
+  <h3>📱 Social Medias:</h3>
     <a href="https://wa.me/5551998256816" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
     <a href="https://www.linkedin.com/in/rafael-henkel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://www.instagram.com/rafael_henkell/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
