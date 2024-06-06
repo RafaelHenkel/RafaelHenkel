@@ -24,8 +24,8 @@
 
 <div>
 <h2>⭐ GitHub Stats: </h2>
-    <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&layout=compact&theme=dark">
-    <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&layout=compact&theme=dark">
+    <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api?username=RafaelHenkel&show_icons=true&theme=dark">
+    <a href="https://github.com/RafaelHenkel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenkel&hide=html&theme=dark">
 </div>
 
 ---
